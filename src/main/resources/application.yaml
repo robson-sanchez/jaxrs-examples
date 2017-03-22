@@ -1,0 +1,60 @@
+users:
+  - id: 1
+    firstName: Robson
+    lastName: Sanchez
+    gender: MALE
+    age: 30
+  
+  - id: 2
+    firstName: Tracy 
+    lastName: Spivey
+    gender: FEMALE
+    age: 21
+
+  - id: 3
+    firstName: Jose
+    lastName: Wright
+    gender: MALE
+    age: 71
+    
+  - id: 4
+    firstName: Mabel
+    lastName: Oneal
+    gender: FEMALE
+    age: 26
+  
+  - id: 5
+    firstName: William 
+    lastName: Smith
+    gender: MALE
+    age: 48
+
+  - id: 6
+    firstName: Sam
+    lastName: Baugher
+    gender: MALE
+    age: 19
+  
+  - id: 7
+    firstName: Marie
+    lastName: Keppler
+    gender: FEMALE
+    age: 14
+
+  - id: 8
+    firstName: Donald
+    lastName: Skinner
+    gender: MALE
+    age: 60
+    
+  - id: 9
+    firstName: Steven
+    lastName: Fountain
+    gender: MALE
+    age: 33
+  
+  - id: 10
+    firstName: Fay
+    lastName: Gilbert
+    gender: FEMALE
+    age: 76
